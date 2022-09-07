@@ -1,5 +1,5 @@
 # HTML-Project-108-2
-[Github Page](https://ericli2802.github.io/KEWA_Cafe/)
+[Github Page](https://ericli2802.github.io/KEWA_Cafe)
 
 ## 設計思路
 
